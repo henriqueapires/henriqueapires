@@ -60,25 +60,17 @@ Aplicação full-stack com *Next.js + TypeScript + Prisma + NextAuth + TanStack 
 - *Limite mensal* com barra de progresso e *alerta de estouro*
 - Autenticação via *Credentials* (NextAuth + JWT)
 
-> Repositório: https://github.com/<seu-usuario>/<repo-numio>  
-> Demo (opcional): https://<seu-demo>.vercel.app
+> Repositório: https://github.com/henriqueapires/numio-app
+
+Status: Homologando
 
 ---
 
-## 📊 Estatísticas (opcional)
-> Substitua *<seu-usuario>* pelo seu username do GitHub.
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=<seu-usuario>&show_icons=true&theme=dracula&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<seu-usuario>&layout=compact&theme=dracula&hide_border=true" />
-</p>
-
----
 
 ## 📫 Contato
 - Portfólio: *https://henriquepires.vercel.app*  
 - E-mail: *henrique.apires@outlook.com*  
-- (adicione LinkedIn aqui, se quiser)
+- Linkedin: https://www.linkedin.com/in/henriqueapires
 
 ---
 
