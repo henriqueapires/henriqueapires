@@ -37,19 +37,6 @@ Desenvolvedor Front-end com foco em *experiência do usuário, **performance* e 
 
 ---
 
-## 💼 Experiência
-- *Desenvolvedor Fullstack* — Integrade (2024 – atual)  
-  Next.js, WordPress (Elementor), pipelines e integrações.
-- *Desenvolvedor Web Front-end (Estágio)* — CapitalX (2022 – 2024)  
-  Landing pages e apps com React/Next, protótipos no Figma.
-- *Assistente de Tecnologia (Estágio)* — Opus Entretenimento (2021 – 2022)  
-  Suporte, manutenção e soluções internas.
-
-*Formação*  
-Bacharel em Ciência da Computação — Centro Universitário Ritter dos Reis (2020–2024)
-
----
-
 ## ✨ Projeto em Destaque
 ### *Numio — App de Controle de Gastos*
 Aplicação full-stack com *Next.js + TypeScript + Prisma + NextAuth + TanStack Query + shadcn/ui*.  
@@ -63,20 +50,6 @@ Aplicação full-stack com *Next.js + TypeScript + Prisma + NextAuth + TanStack 
 > Repositório: https://github.com/henriqueapires/numio-app
 
 Status: Homologando
-
----
-
-
-## 📫 Contato
-- Portfólio: *https://henriquepires.vercel.app*  
-- E-mail: *henrique.apires@outlook.com*  
-- Linkedin: https://www.linkedin.com/in/henriqueapires
-
----
-
-## 🌎 Idiomas
-- *Português*: Nativo  
-- *Inglês*: Avançado
 
 ---
 
