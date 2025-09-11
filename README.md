@@ -47,9 +47,8 @@ Aplicação full-stack com *Next.js + TypeScript + Prisma + NextAuth + TanStack 
 - *Limite mensal* com barra de progresso e *alerta de estouro*
 - Autenticação via *Credentials* (NextAuth + JWT)
 
+> Deploy link: https://numioapp.vercel.app
 > Repositório: https://github.com/henriqueapires/numio-app
-
-Status: Homologando
 
 ---
 
