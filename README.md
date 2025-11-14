@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Henrique Alves 👋</h1>
 <p align="center">
-  Desenvolvedor <b>Front-end</b> & <b>UI/UX</b> • React • Next.js • TypeScript • Tailwind • Figma
+  Desenvolvedor <b>Front-end/Full-stack</b> & <b>UI/UX</b> • React • Next.js • TypeScript • Tailwind • Figma
 </p>
 
 <p align="center">
